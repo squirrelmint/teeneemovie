@@ -205,23 +205,23 @@
              <div style="width: 15%;float: left;">
                 <img src="/assets/images/banner/b-l-r.jpg" width="100%" height="423px" alt="banner">
             </div>
+            <div class="ad-banner" style="width: 70%;">
+                <a href="#" target="_new" style="z-index: 2147483647">
+                    <img src="/assets/images/banner/b2.jpg" width="100%" alt="banner">
+                </a>
+                <a href="#" target="_new" style="z-index: 2147483647">
+                    <img src="/assets/images/banner/b3.jpg" width="100%" alt="banner">
+                </a>
+                <a href="#" target="_new" style="z-index: 2147483647">
+                    <img src="/assets/images/banner/b4.gif" width="100%" alt="banner">
+                </a>
+            </div>
             <div style="width: 15%;float: right;">
             <img src="/assets/images/banner/b-l-r.jpg" width="100%" height="423px" alt="banner">
             </div> 
-           
-           
             <!-- <a href="https://www.webdoonung.com/ads/redirect/2" target="_new" style="z-index: 2147483647">
                 <img src="/assets/images/banner/b1.jpg" width="70%" alt="banner" style="padding-bottom: 10px;">
             </a> -->
-            <a href="#" target="_new" style="z-index: 2147483647">
-                <img src="/assets/images/banner/b2.jpg" width="70%" alt="banner">
-            </a>
-            <a href="#" target="_new" style="z-index: 2147483647">
-                <img src="/assets/images/banner/b3.jpg" width="70%" alt="banner">
-            </a>
-            <a href="#" target="_new" style="z-index: 2147483647">
-                <img src="/assets/images/banner/b4.gif" width="70%" alt="banner">
-            </a>
         </div>
         <!-- /Banner 1 -->
 
