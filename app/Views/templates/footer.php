@@ -1,7 +1,7 @@
     <div id="footer">
         <div class="footer clearfix">
             <div class="footerleft">
-                Copyright © 2020 <a href="/page/home">ดูหนังออนไลน์ ดู หนัง หนัง ออนไลน์ Doonung8k ดูหนังออนไลน์ฟรีหนังใหม่ ได้ที่ Doomung8k.com</a>
+                Copyright © 2020 <a href="/page/home">ดูหนังออนไลน์ ดู หนัง หนัง ออนไลน์ Teeneemovie ดูหนังออนไลน์ฟรีหนังใหม่ ได้ที่ Teeneemovie.com</a>
                 <div style="height: 3.5rem; overflow: hidden; text-overflow: ellipsis">
                 </div>
             </div>

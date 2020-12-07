@@ -142,7 +142,7 @@
             <div class="header-left">
                 <div class="header-logo">
                     <a href="/page/home">
-                        <img src='<?php echo base_url("/assets/images/logo/Donung8K Logo_6.png"); ?>' width="95%" alt="ดูหนังออนไลน์ ดู หนัง หนัง ออนไลน์ dooung8k ดูหนังออนไลน์ฟรีหนังใหม่ ได้ที่ dooung8k">
+                        <img style="width:auto;height:168px;"  src='<?php echo base_url("/assets/images/logo/LOGO-TeeneeMovie.png"); ?>' alt="ดูหนังออนไลน์ ดู หนัง หนัง ออนไลน์ dooung8k ดูหนังออนไลน์ฟรีหนังใหม่ ได้ที่ dooung8k">
                     </a>
                 </div>
 
@@ -151,7 +151,7 @@
                 <div class="header-title">
                     <div class="row" style="display: flex;">
                         <li>
-                            <p class="header-font-1">ดูหนังใหม่ หนังออนไลน์ได้ที่ Doonung8k.com</p>
+                            <p class="header-font-1">ดูหนังใหม่ หนังออนไลน์ได้ที่ Teeneemovie.com</p>
 
                             <a target="_blank" href="<?php echo "https://www.facebook.com" ?>"><img id="icon-facebook" style="width: 6%;" src='<?php echo base_url("/assets/images/social-icon/facebook.png"); ?>'></a>
                             <a target="_blank" href="<?php echo "https://www.facebook.com" ?>"><img id="icon-line" style="width: 6%;" src='<?php echo base_url("/assets/images/social-icon/line.png"); ?>'></a>
